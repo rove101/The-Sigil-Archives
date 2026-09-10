@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Compendium Index
+title: Compendium index
 ---
 
 **Welcome** to the digital compendium.
