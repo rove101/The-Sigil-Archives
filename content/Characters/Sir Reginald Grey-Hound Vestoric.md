@@ -55,31 +55,6 @@ Blah 2
 - [[Parent Topic]]
 - [[Related Concept]]
 
-# Alternative Layout
-
-> [!info|right]
->
-> # Entity / Item Name
->
-> ![[placeholder.png|200]]
->
-> #### Statistics
->
-> **Type:** Weapon / Faction / Entity
-> **Category:** [[Category Link]]
-> **Power / Rarity:** Tier 2 / Rare
-> **Value:** 100 Gold / Credits
->
-> #### Lore & IDs
->
-> **Origin:** [[The Hyperion]] / [[Oisia]]
-> **Archive ID:** #SIG-1918
-> **Status:** Active / Intact
-
-The **Entity Name** is a \[rarity/type] originating from [[Location/Source]]. It is primarily utilized by [[Faction]] during \[Event/Era] for \[Core Function].
-
----
-
 ### Notes
 
 - **Mechanics / Features:** Detail specific behavioral quirks, magical effects, or active abilities here.
