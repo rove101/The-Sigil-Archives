@@ -22,9 +22,3 @@ Explore the archives below or use the search bar (`Ctrl + K`) to find specific s
 - **[[Session Summaries]]** – Chronological logs of player adventures.
 - **[[Dramatis Personae]]** – Notable NPCs and historical figures.
 - **[[House Rules]]** – Custom mechanics, Homebrewed rules, and adaptations to standard 5.5e DnD.
-
-### Templates
-
-- [[Leaflet Map Template]]
-- [[Wiki Page Template]]
-- [[NPC Template]]
