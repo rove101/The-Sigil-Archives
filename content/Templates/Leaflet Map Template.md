@@ -1,10 +1,9 @@
 ---
 publish: true
-created: 2026-09-10T17:28:13.170Z
-modified: 2026-09-10T17:37:28.110Z
+created: 2026-09-10T17:57:39.009Z
+modified: 2026-09-10T17:58:44.525Z
 ---
 
-````
 ```leaflet
 ### The id can be anything but it must be unique.
 id: update-me
@@ -26,6 +25,4 @@ zoomDelta: 0.5
 unit: feet
 scale: 1
 darkMode: false
-````
-
-This is a test!
+```
