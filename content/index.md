@@ -1,8 +1,6 @@
 ---
 publish: true
 title: Compendium Index
-created: 2026-09-10T15:22:43.004Z
-modified: 2026-09-10T17:41:27.477Z
 ---
 
 **Welcome** to the digital compendium.
