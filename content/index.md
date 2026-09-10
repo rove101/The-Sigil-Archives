@@ -2,14 +2,11 @@
 publish: true
 title: Compendium Index
 created: 2026-09-10T15:22:43.004Z
-modified: 2026-09-10T17:31:52.789Z
+modified: 2026-09-10T17:41:27.477Z
 ---
 
 **Welcome** to the digital compendium.
-
-```
 Explore the archives below or use the search bar (`Ctrl + K`) to find specific subjects.
-```
 
 > [!NOTE]
 > This archive is updated regularly as new records are uncovered.
@@ -27,3 +24,9 @@ Explore the archives below or use the search bar (`Ctrl + K`) to find specific s
 - **[[Session Summaries]]** – Chronological logs of player adventures.
 - **[[Dramatis Personae]]** – Notable NPCs and historical figures.
 - **[[House Rules]]** – Custom mechanics, Homebrewed rules, and adaptations to standard 5.5e DnD.
+
+### Templates
+
+- [[Leaflet Map Template]]
+- [[Wiki Page Template]]
+- [[NPC Template]]
