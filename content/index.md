@@ -3,12 +3,11 @@ publish: true
 title: The Sigil Archives
 description: Campaign lore, Worldbuilding, and archives
 created: 2026-09-10T15:22:43.004Z
-modified: 2026-09-10T16:17:03.672Z
+modified: 2026-09-10T16:23:17.031Z
 ---
 
-# The Sigil Archives
-
-Welcome to the digital compendium. Explore the archives below or use the search bar (`Ctrl + K`) to find specific subjects.
+**Welcome** to the digital compendium.
+Explore the archives below or use the search bar (`Ctrl + K`) to find specific subjects.
 
 > [!NOTE]
 > This archive is updated regularly as new records are uncovered.
