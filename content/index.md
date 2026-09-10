@@ -1,8 +1,9 @@
 ---
 publish: true
+title: Compendium Index
 description: Campaign lore, Worldbuilding, and archives
 created: 2026-09-10T15:22:43.004Z
-modified: 2026-09-10T16:28:32.272Z
+modified: 2026-09-10T16:31:49.482Z
 ---
 
 **Welcome** to the digital compendium.
