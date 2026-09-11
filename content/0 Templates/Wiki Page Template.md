@@ -6,8 +6,7 @@ tags:
 
 # {{Trevor Belmont}}
 
-> [!info|right]
-> **{{Trevor Belmont}}**
+> [!info|right] **{{Trevor Belmont}}**
 > ![[Picture_goes_here.png]]
 > | Property | Value |
 > | :--- | :--- |
@@ -25,9 +24,9 @@ tags:
 >
 > #### Lore & IDs
 >
-> Origin:
-> Archive ID: #SIG-1918
-> Status: Active / Intact
+> **Origin:**
+> **Archive ID:** #SIG-1918
+> **Status:** Active / Intact
 
 "I don't know any of you. But that doesn't matter, does it? My family - the family you demonized and excommunicated - has fought and died through generations for this country. We do this thing for Wallachia and her people. We don't have to know you all. We do it anyway. And it's not the dying that frightens us. It's never having stood up and fought for you. I am Trevor Belmont, of the House of Belmont, and dying has never frightened me."
 
@@ -57,29 +56,6 @@ Blah 2
 - [[Related Concept]]
 
 # Alternative Layout
-
-> [!info|right]
->
-> # Entity / Item Name
->
-> ![[placeholder.png|200]]
->
-> #### Statistics
->
-> **Type:** Weapon / Faction / Entity
-> **Category:** [[Category Link]]
-> **Power / Rarity:** Tier 2 / Rare
-> **Value:** 100 Gold / Credits
->
-> #### Lore & IDs
->
-> **Origin:** [[The Hyperion]] / [[Oisia]]
-> **Archive ID:** #SIG-1918
-> **Status:** Active / Intact
-
-The **Entity Name** is a \[rarity/type] originating from [[Location/Source]]. It is primarily utilized by [[Faction]] during \[Event/Era] for \[Core Function].
-
----
 
 ### Notes
 
