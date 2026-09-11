@@ -15,7 +15,7 @@ title: Compendium Index
 
 - **[[Deities and Pantheons]]** – Higher powers, domains, and holy orders.
 - **[[Geography & Regions]]** – Maps, settlements, and territorial borders.
-- **[[Factions & Guilds]]** – Active political powers and clandestine groups.
+- **[[0 Faction index|Factions & Guilds]]** – Active political powers and clandestine groups.
 
 ### Campaign Codex
 
