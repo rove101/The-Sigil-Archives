@@ -13,5 +13,5 @@ filters:
     - file.ext == "md"
 views:
   - type: table
-    name: 0 Faction index
+    name: Faction index
 ```
