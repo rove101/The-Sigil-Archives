@@ -4,10 +4,10 @@ title: Compendium Index
 ---
 
 **Welcome** to the digital compendium.
-Explore the archives below or use the search bar (`Ctrl + K`) to find specific subjects.
 
-> [!NOTE]
+> [!note]
 > This archive is updated regularly as new records are uncovered.
+> Explore the archives below or use the search bar (`Ctrl + K`) to find specific subjects.
 
 ---
 
