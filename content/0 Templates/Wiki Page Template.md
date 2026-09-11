@@ -1,7 +1,5 @@
 ---
 publish: true
-tags:
-  - Needs_Work
 ---
 
 # {{Trevor Belmont}}
@@ -28,7 +26,7 @@ tags:
 > **Archive ID:** #SIG-1918
 > **Status:** Active / Intact
 
-"I don't know any of you. But that doesn't matter, does it? My family - the family you demonized and excommunicated - has fought and died through generations for this country. We do this thing for Wallachia and her people. We don't have to know you all. We do it anyway. And it's not the dying that frightens us. It's never having stood up and fought for you. I am Trevor Belmont, of the House of Belmont, and dying has never frightened me."
+"I don't know any of you. But that doesn't matter, does it? My family - the family you demonized and excommunicated - has fought and died through generations for this country. We do this thing for ==Wallachia== and her people. We don't have to know you all. We do it anyway. And it's not the dying that frightens us. It's never having stood up and fought for you. I am ==Trevor Belmont==, of the ==House of Belmont==, and dying has never frightened me."
 
 -==Trevor Belmont== during a confrontation in the ==underground labyrinth== of ==Gresit==
 Include a short quote/excerpt from a person/literature. Two paragraphs is enough. Link the person who said/wrote and the event/book
@@ -44,7 +42,9 @@ Brief introduction or summary definition of {{title}}.
 
 ## History
 
-Blah
+```mermaid
+timeline
+```
 
 ### Trivia
 
