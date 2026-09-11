@@ -1,6 +1,6 @@
 ---
 publish: true
-title: 0 Planets Index
+title: Planets Index
 ---
 
 # Planets Index

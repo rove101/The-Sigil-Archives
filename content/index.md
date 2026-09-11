@@ -8,7 +8,10 @@ title: Compendium Index
 > [!note]
 > This archive is updated regularly as new records are uncovered.
 > Explore the archives below or use the search bar (`Ctrl + K`) to find specific subjects.
-> \---### World & Lore
+
+---
+
+### World & Lore
 
 - **[[Pantheons and Religions]]** – Higher powers, domains, and holy orders.
 - **[[Geography & Regions]]** – Maps, settlements, and territorial borders.

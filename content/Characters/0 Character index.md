@@ -1,9 +1,9 @@
 ---
 publish: true
-title: 0 Character index
+title: Character index
 ---
 
-# 0 Character index
+# Character index
 
 ```base
 filters:
