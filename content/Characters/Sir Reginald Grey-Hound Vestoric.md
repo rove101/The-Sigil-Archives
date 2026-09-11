@@ -2,13 +2,14 @@
 publish: true
 tags:
   - Needs_Work
+  - Man
 ---
 
 # Sir Reginald Grey-Hound Vestoric
 
 > [!info|right]
 >
-> # Sir Reginald Grey-Hound Vestoric
+> ##### Sir Reginald Grey-Hound Vestoric
 >
 > ![[Picture_goes_here.png]]
 > | Property | Value |
