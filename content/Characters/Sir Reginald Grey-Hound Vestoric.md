@@ -1,7 +1,6 @@
 ---
 publish: true
 tags:
-  - Needs_Work
   - Man
 ---
 
