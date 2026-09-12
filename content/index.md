@@ -18,7 +18,7 @@ title: Compendium Index
 
 ### Societies & Institutions
 
-- Historic Events
+- **[[Historischtum]]** -
 
 ### World & Lore
 
@@ -30,5 +30,5 @@ title: Compendium Index
 
 ### Campaign Codex
 
-- **[[Anthology]]** - Chronological logs of adventures, heroes and epochal events.
+- **[[0 Story index|Anthology]]** - Chronological logs of adventures, heroes and epochal events.
 - **[[0 Rules index|Universal Constants]]** - Mechanics of the universe, it's rules, and conversion factors.
