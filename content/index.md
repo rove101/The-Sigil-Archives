@@ -20,7 +20,7 @@ title: Compendium Index
 
 ### Societies & Institutions
 
-- **[[0 History index|Historiaculum]]** - A collection of events ordered chronologically
+- **[[0 History index|Historaculum]]** - A collection of events ordered chronologically
 - **[[0 Kingdom index]]** -
 - **[[0 Cities index]]** -
 - **[[0 Faction index]]** -
@@ -35,7 +35,7 @@ title: Compendium Index
 ### Cosmology
 
 - **[[0 Inner Planes index|Materias Planeteris]]** - All things made physical and their interaction with the Cosmos
-- **[[0 Outer Planes index|Longinquus der'Ort]]** - Things outside the Crystal Sphere of [[0 Planets Index|The cosmic Vale]]
+- **[[0 Outer Planes index|Unendlichero]]** - Things outside the Crystal Sphere of [[0 Planets Index|The cosmic Vale]]
 
 ### Campaign Codex
 
