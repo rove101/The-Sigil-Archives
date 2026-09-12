@@ -14,11 +14,17 @@ title: Compendium Index
 ### Inhabitants & Assets
 
 - **[[0 Character index|Dramatis Personae]]** - Notable characters and historical figures.
+- **[[0 Species index|Genosung]]** - Close study of many creatures found across the cosmos.
 - **[[0 Technology index|Technika]]** - Advancements in the field of
+- **[[0 Magic index|Magika]]** - The different forms of supernatural, occult, or otherwise manipulative forces
 
 ### Societies & Institutions
 
-- **[[0 |Historischtum]]** -
+- **[[0 History index|Historischtum]]** - A collection of events ordered chronologically
+- **[[0 Kingdom index]]** -
+- **[[0 Cities index]]** -
+- **[[0 Faction index]]** -
+- **[[0 Politics index]]** -
 
 ### World & Lore
 
@@ -28,8 +34,8 @@ title: Compendium Index
 
 ### Cosmology
 
-- **[[0 Inner Planes index|Materias Planeteris]]** - All things made physical and the interaction with the Cosmos
-- **[[0 Outer Planes index|Pizza?]]** - Mozzerrrrrelllllaaaa!!!
+- **[[0 Inner Planes index|Materias Planeteris]]** - All things made physical and their interaction with the Cosmos
+- **[[0 Outer Planes index|Longinquus der'Ort]]** - Things outside the Crystal Sphere of [[0 Planets Index|The cosmic Vale]]
 
 ### Campaign Codex
 
