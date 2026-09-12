@@ -11,14 +11,24 @@ title: Compendium Index
 
 ---
 
+### Inhabitants & Assets
+
+- **[[0 Character index|Dramatis Personae]]** - Notable characters and historical figures.
+- **[[0 Technology index|Technika]]** - Advancements in the field of
+
+### Societies & Institutions
+
+- Historic Events
+
 ### World & Lore
 
-- **[[Pantheons and Religions]]** – Higher powers, domains, and holy orders.
-- **[[Geography & Regions]]** – Maps, settlements, and territorial borders.
-- **[[0 Faction index|Factions & Guilds]]** – Active political powers and clandestine groups.
+- **[[0 Religions index|Pantheons and Religions]]** - Higher powers, domains, and holy orders.
+- **[[Geography & Regions]]** - Maps, settlements, and territorial borders.
+- **[[0 Faction index|Factions & Guilds]]** - Active political powers and clandestine groups.
+
+### Cosmology
 
 ### Campaign Codex
 
-- **[[Anthology]]** – Chronological logs of adventures, heroes and epochal events.
-- **[[Dramatis Personae]]** – Notable characters and historical figures.
-- **[[Universal Constants]]** – Mechanics of the universe, it's rules, and conversion factors.
+- **[[Anthology]]** - Chronological logs of adventures, heroes and epochal events.
+- **[[0 Rules index|Universal Constants]]** - Mechanics of the universe, it's rules, and conversion factors.
