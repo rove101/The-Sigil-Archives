@@ -5,7 +5,7 @@ title: Story index
 
 # Story index
 
-> [!tip] The Temporal Scribes are busy at work maintaining the chronic vortex
+> [!tip] The [[Temporal Scribes]] are busy at work maintaining the Chronal-Vortex. As such, we have elected to place all writings not in chronological order, but in order we receive them from our [[Wayfarers]].
 
 ---
 
