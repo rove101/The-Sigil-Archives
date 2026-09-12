@@ -15,12 +15,12 @@ title: Compendium Index
 
 - **[[0 Character index|Dramatis Personae]]** - Notable characters and historical figures.
 - **[[0 Species index|Genosung]]** - Close study of many creatures found across the cosmos.
-- **[[0 Technology index|Technika]]** - Advancements in the field of
-- **[[0 Magic index|Magika]]** - The different forms of supernatural, occult, or otherwise manipulative forces
+- **[[0 Technology index|Technika]]** - Advancements in the field of applied methodology.
+- **[[0 Magic index|Magika]]** - The different forms of supernatural, occult, or otherwise unseen forces.
 
 ### Societies & Institutions
 
-- **[[0 History index|Historischtum]]** - A collection of events ordered chronologically
+- **[[0 History index|Historiaculum]]** - A collection of events ordered chronologically
 - **[[0 Kingdom index]]** -
 - **[[0 Cities index]]** -
 - **[[0 Faction index]]** -
