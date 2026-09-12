@@ -6,27 +6,16 @@ publish: true
 
 > [!info|right] **{{title}}**
 > ![[Picture_goes_here.png]]
-> | Property | Value |
+> | **Species** | Human |
 > | :--- | :--- |
-> | **Type** | Concept / Entity |
-> | **Status** | Active |
-> | [[God of Humanity]] |
-> [!info|right]
->
-> #### Statistics
->
-> **Type:** Weapon / Faction / Entity
-> **Category:** [[Category Link]]
-> **Power / Rarity:** Tier 2 / Rare
-> **Value:** 100 Gold / Credits
->
-> #### Lore & IDs
->
-> **Origin:**
-> **Archive ID:** #SIG-1918
-> **Status:** Active / Intact
+> | **Background** | Farmer |
+> | **Class** | Fighter |
+> | Home | [[Oisia]] |
+> | Birth date | {{date}} |
+> | Height | 5'10" |
+> **Archive ID:** #Sig-Char (5241)
 
-"I don't know any of you. But that doesn't matter, does it? My family - the family you demonized and excommunicated - has fought and died through generations for this country. We do this thing for Wallachia and her people. We don't have to know you all. We do it anyway. And it's not the dying that frightens us. It's never having stood up and fought for you. I am [[Trevor Belmont]], of the [[House of Belmont]], and dying has never frightened me."
+"I don't know any of you. But that doesn't matter, does it? My family - the family you demonized and excommunicated - has fought and died through generations for this country. We do this thing for [[Wallachia]] and her people. We don't have to know you all. We do it anyway. And it's not the dying that frightens us. It's never having stood up and fought for you. I am [[Trevor Belmont]], of the [[House of Belmont]], and dying has never frightened me."
 
 -[[Trevor Belmont]] during a confrontation in the [[underground labyrinth]] of [[Gresit]]
 Include a short quote/excerpt from a person/literature. Two paragraphs is enough. Link the person who said/wrote and the event/book
@@ -34,6 +23,25 @@ Include a short quote/excerpt from a person/literature. Two paragraphs is enough
 # Overview
 
 Appearance, preferences, and
+
+## Person
+
+1. Species=
+2. Background=
+3. Class=
+4. Home=
+5. Birth/Age=
+6. Height=
+
+## Place
+
+1. Place it's a part of=
+2. Important place to it=
+3. Founding date=
+4. Climate/terrain=
+5. Significance=
+6. population=
+7. Dominant Species=
 
 ## Overview
 
