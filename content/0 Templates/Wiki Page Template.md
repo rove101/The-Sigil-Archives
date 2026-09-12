@@ -22,16 +22,22 @@ publish: true
 Include a short quote/excerpt from a person/literature. Two paragraphs is enough. Link the person who said/wrote and the event/book
 
 <div style="clear: both;"></div>
+
 # Overview
-Appearance, preferences, and 
+
+Appearance, preferences, and
+
 ## Person
+
 1. Species=
 2. Background=
 3. Class=
 4. Home=
 5. Birth/Age=
 6. Height=
+
 ## Place
+
 1. Place it's a part of=
 2. Important place to it=
 3. Founding date=
@@ -39,24 +45,37 @@ Appearance, preferences, and
 5. Significance=
 6. population=
 7. Dominant Species=
+
 ## Overview
+
 Brief introduction or summary definition of {{title}}.
+
 ## Core Details
-- **Origin / Background:** 
-- **Key Features:** 
+
+- **Origin / Background:**
+- **Key Features:**
+
 ## History
+
 ```mermaid
 timeline
 ```
+
 ### Trivia
+
 Blah 2
+
 ## Related Topics
+
 - [[Parent Topic]]
 - [[Related Concept]]
+
 # Alternative Layout
+
 ### Notes
-* **Mechanics / Features:** Detail specific behavioral quirks, magical effects, or active abilities here.
-* **Environmental Limits:** Does it react differently in atmospheric storms, slipspace, or void zones?
+
+- **Mechanics / Features:** Detail specific behavioral quirks, magical effects, or active abilities here.
+- **Environmental Limits:** Does it react differently in atmospheric storms, slipspace, or void zones?
 
 ---
 
