@@ -29,7 +29,7 @@ title: Compendium Index
 ### Cosmology
 
 - **[[0 Inner Planes index|Materias Planeteris]]** - All things made physical and the interaction with the Cosmos
-- **[[0 Outer Planes index]]**
+- **[[0 Outer Planes index|Pizza?]]** - Mozzerrrrrelllllaaaa!!!
 
 ### Campaign Codex
 
