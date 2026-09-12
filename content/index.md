@@ -3,7 +3,7 @@ publish: true
 title: Compendium Index
 ---
 
-**Welcome** to the digital compendium.
+**Welcome** to the compendium of [[0 Inner Planes index|The Cosmic Vale]].
 
 > [!note]
 > This archive is updated regularly as new records are uncovered.
@@ -18,15 +18,18 @@ title: Compendium Index
 
 ### Societies & Institutions
 
-- **[[Historischtum]]** -
+- **[[0 |Historischtum]]** -
 
 ### World & Lore
 
 - **[[0 Religions index|Pantheons and Religions]]** - Higher powers, domains, and holy orders.
-- **[[Geography & Regions]]** - Maps, settlements, and territorial borders.
+- **[[0 Planets Index|Geography & Regions]]** - Maps, settlements, and territorial borders.
 - **[[0 Faction index|Factions & Guilds]]** - Active political powers and clandestine groups.
 
 ### Cosmology
+
+- **[[0 Inner Planes index|Materias Planeteris]]** - All things made physical and the interaction with the Cosmos
+- **[[0 Outer Planes index]]**
 
 ### Campaign Codex
 
