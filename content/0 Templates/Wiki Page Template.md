@@ -20,6 +20,7 @@ publish: true
 
 -[[Trevor Belmont]] during a confrontation in the [[underground labyrinth]] of [[Gresit]]
 Include a short quote/excerpt from a person/literature. Two paragraphs is enough. Link the person who said/wrote and the event/book
+-----------------------------------------------------------------------------------------------------------------------------------
 
 # Overview
 
