@@ -19,10 +19,9 @@ aliases:
 >
 > **Archive ID:** #Sig-C/1789268412
 
-"I don't know any of you. But that doesn't matter, does it? My family - the family you demonized and excommunicated - has fought and died through generations for this country. We do this thing for [[Wallachia]] and her people. We don't have to know you all. We do it anyway. And it's not the dying that frightens us. It's never having stood up and fought for you. I am [[Trevor Belmont]], of the [[House of Belmont]], and dying has never frightened me."
+“You look… whole again. [[Noxervus]]. Your soul is quiet now. That is good but in this realm, a favor of this magnitude creates heavy imbalances”. “I do not ask for your material goods, you know your mission. My payment is simple, continue your work. Return and bring those who are lost in the fog of your [[material world]] to ours. Do know that if you fail again, your vow will be broken and I won’t be able to help you again”.
 
--[[Trevor Belmont]] during a confrontation in the [[underground labyrinth]] of [[Gresit]]
-Include a short quote/excerpt from a person/literature. Two paragraphs is enough. Link the person who said/wrote and the event/book
+-[[Umbrax]] to [[Noxervus]] after helping her pull her soul back from a necrotic curse.
 
 <div style="clear: both;"></div>
 
@@ -88,9 +87,9 @@ When undergoing this training, [[Noxervus]] was introduced to [[Aethelgard]], th
 
 # Relationships
 
-- Family
-- Friends
-- Person or persons who had a memorable impact on Noxervus
+- [[Umbrax]]
+- [[Pipkin]]
+- [[Vespera]]
 
 # Trivia
 
