@@ -23,7 +23,7 @@ title: Compendium Index
 - **[[0 Character index|Dramatis Personae]]** - Notable characters and historical figures.
 - **[[0 Species index|Genosung]]** - Close study of many creatures found across the cosmos.
 - **[[0 Technology index|Technika]]** - Advancements in the field of applied methodology.
-- **[[0 Magic index|Magika]]** - The different forms of supernatural, occult, or otherwise unseen forces.
+- **[[0 Magika index|Magika]]** - The different forms of supernatural, occult, or otherwise unseen forces.
 
 ### Societies & Institutions
 
@@ -44,4 +44,3 @@ title: Compendium Index
 - **[[0 Story index|Anthology]]** - Chronological logs of adventures, heroes and epochal events.
 - **[[0 Rules index|Universal Constants]]** - Mechanics of the universe, it's rules, and conversion factors.
 - **[[0 One-Shot index|Multidimensional Occurrences]]** - A collection of history few and far between.
-- [[Person Wiki Page Template]]
