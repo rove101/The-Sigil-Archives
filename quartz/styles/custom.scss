@@ -3,6 +3,13 @@
 // put your custom CSS here!
 // quartz/styles/custom.scss
 
+// Force the main article text area to use the desktop breakpoint width
+article, .page .center {
+  max-width: 1200px !important; // Forces the text container to expand to 1200px
+  width: 100%;
+}
+
+/*
 // =========================================
 //  ITS THEME (WOTC-BEYOND PROFILE) MAPPING
 // =========================================
@@ -118,3 +125,4 @@ button.toc-toggle {
   margin: 0 !important;
   padding-bottom: 4px !important;
 }
+*/
