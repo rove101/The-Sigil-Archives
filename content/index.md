@@ -14,7 +14,7 @@ title: Compendium Index
 ### World & Lore
 
 - **[[0 Religions index|Pantheons and Religions]]** - Higher powers, domains, and holy orders.
-- **[[0 Planets Index|Geography & Regions]]** - Maps, settlements, and territorial borders.
+- **[[0 kingdom Index|Geography & Regions]]** - Maps, settlements, and territorial borders.
 
 * **[[0 History index|Historaculum]]** - A collection of events ordered chronologically
 
