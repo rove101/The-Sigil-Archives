@@ -12,7 +12,7 @@ aliases:
 > | :--- | :--- |
 > | **Species** | [[Harengon]] |
 > | **Background** | [[Feylost]] |
-> | **Class** | [[Barbarian]] 2/[[Ranger]] 3 |
+> | **Class** | [[Barbarian]]/[[Ranger]] |
 > | Home | [[Everbloom]] |
 > | Gender | Female |
 > | Affiliation | [[Umbrax|Umbrax's Following]] |
