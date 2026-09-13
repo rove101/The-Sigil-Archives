@@ -11,6 +11,13 @@ title: Compendium Index
 
 ---
 
+### World & Lore
+
+- **[[0 Religions index|Pantheons and Religions]]** - Higher powers, domains, and holy orders.
+- **[[0 Planets Index|Geography & Regions]]** - Maps, settlements, and territorial borders.
+
+* **[[0 History index|Historaculum]]** - A collection of events ordered chronologically
+
 ### Inhabitants & Assets
 
 - **[[0 Character index|Dramatis Personae]]** - Notable characters and historical figures.
@@ -20,17 +27,12 @@ title: Compendium Index
 
 ### Societies & Institutions
 
-- **[[0 History index|Historaculum]]** - A collection of events ordered chronologically
 - **[[0 Kingdom index]]** -
 - **[[0 Cities index]]** -
-- **[[0 Faction index]]** -
+
+* **[[0 Faction index|Factions & Guilds]]** - Active political powers and clandestine groups.
+
 - **[[0 Politics index]]** -
-
-### World & Lore
-
-- **[[0 Religions index|Pantheons and Religions]]** - Higher powers, domains, and holy orders.
-- **[[0 Planets Index|Geography & Regions]]** - Maps, settlements, and territorial borders.
-- **[[0 Faction index|Factions & Guilds]]** - Active political powers and clandestine groups.
 
 ### Cosmology
 
@@ -41,3 +43,4 @@ title: Compendium Index
 
 - **[[0 Story index|Anthology]]** - Chronological logs of adventures, heroes and epochal events.
 - **[[0 Rules index|Universal Constants]]** - Mechanics of the universe, it's rules, and conversion factors.
+- **[[0 One-Shot index|Multidimensional Occurrences]]** - A collection of history few and far between.
