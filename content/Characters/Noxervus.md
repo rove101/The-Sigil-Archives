@@ -54,32 +54,6 @@ What they can be seen carrying most often. Useful for if they have a significant
 
 # History
 
-## Early Childhood
-
-Always got into trouble, running off to explore the woods and coming back with messy fur. Has a small tear in her left ear after getting it caught in a thorn bush while playing. Ran crying to the [[village elders]] to help her because she was afraid her parents would be mad. After living in [[Everbloom]], she likes to use jewelry, flowers, or trinkets to hide the scar.
-
-Always very talkative, chatting with travelers and customers of her [[parent’s bathhouse]] often. Met [[Pipkin]] for the first time at her [[parent’s bathhouse]]; the family was there to bathe the father and give him some respite from his pain. After [[Pipkin]]’s father died, [[Noxervus|Liora]] offered to protect the perimeter of their farm at night from pests and critters. [[Pipkin]] felt indebted to [[Noxervus|Liora]] after helping; she laughed and jokingly said he has to be her friend for all eternity.
-
-## Meeting [[Umbrax]]
-
-Someone from a prominent village in [[Veridian Hearth]] arrived into [[Silfville]] at night after getting caught up on the way there. While watching a friend’s farm perimeter, [[Noxervus|Liora]] saw them and offered to assist when a large creature attempted to attack. [[Noxervus|Liora]] used her cloak to create shadow against the moon and various metal and wood trinkets to make menacing sounds, scaring off the creature.
-
-This event is what caused [[Umbrax]] to notice and take interest in [[Noxervus|Liora]]. After that event, [[Noxervus|Liora]] would hear whispering in the woods that was louder at night. She went out one night to investigate and found a deer drinking at a pond. [[Noxervus|Liora]] approached the deer, and when she touched it, her mind was flooded with vague images and words of [[Umbrax]] and his children. All of the imagery and messaging screamed to an overwhelming feeling of greater purpose.
-
-## Escaping to the Feywild
-
-After this event, [[Noxervus|Liora]] passed out and woke up just as the sun was rising. She went home and bathed, where her parents saw antlers beginning to grow from her head. Her parents, as well as the rest of the town, forced her out that day with a small bag that she packed before running out into the woods. [[Pipkin]] found her later in the day and brought her some supplies and things to remember home, ensuring her that they would always be friends no matter what happened.
-
-As night approached, [[Noxervus|Liora]] heard the voices once again and followed them to a [[Fey gateway]]. She entered the [[Feywild]] directly into ‘[[The Veil]]’, where her memories and the images from the inciting event swirled, melded, and ripped apart in her head until she felt a feathered hand on her shoulder. [[Umbrax]] introduced himself and led her to the heart of [[Everbloom]]
-
-## Training in the Feywild
-
-## Settling In
-
-## Training
-
-[[Noxervus|Liora]] learned how to fight and protect as [[Umbrax]] trained her to be a guardian and to bring lost souls back to him. During this training period, [[Noxervus|Liora]]’s antlers began to grow, reaching the point of having two small prongs. Became close friends with [[Vespera]] and [[Obscurus]], who helped her train and protected her. [[Noxervus|Liora]] was given her Fey name, [[Noxervus]], after successfully casting her first [[0 Magika index|spell]].
-
 ## Preparing for the Mortal Plane
 
 When [[Vespera]] saw a vision of terror and evil befalling the [[mortal plane]], [[Noxervus]] was trained to be a [[diplomat]] so she may return to the [[mortal plane]].
