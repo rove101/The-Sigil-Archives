@@ -20,10 +20,9 @@ aliases:
 >
 > **Archive ID:** #Sig-C/1789317946
 
-"I don't know any of you. But that doesn't matter, does it? My family - the family you demonized and excommunicated - has fought and died through generations for this country. We do this thing for [[Wallachia]] and her people. We don't have to know you all. We do it anyway. And it's not the dying that frightens us. It's never having stood up and fought for you. I am [[Trevor Belmont]], of the [[House of Belmont]], and dying has never frightened me."
+“You both have done much to help my Envoy, for that I am forever grateful. Consider a small favor yours, no strings attached”. “I fear you might have forgotten what having a favor owed is like. If you wish to learn more of your past, come find me out in the veil. There we may speak privately”. "Memories are powerful things, [[Elred Pergwyn|Elred]]. You may have forgotten your oath and your powers with it, but your body remembers. You have kept your word though you have long since heard the wind whisper it to you."
 
--[[Trevor Belmont]] during a confrontation in the [[underground labyrinth]] of [[Gresit]]
-Include a short quote/excerpt from a person/literature. Two paragraphs is enough. Link the person who said/wrote and the event/book
+-[[Umbrax]] addressing [[Elred]] about his past life.
 
 <div style="clear: both;"></div>
 
