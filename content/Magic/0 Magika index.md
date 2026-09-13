@@ -6,6 +6,10 @@ aliases:
   - Spells
   - spells
   - Magic
+  - Magically
+  - Magika
+  - magically
+  - magic
 title: Magic index
 ---
 
