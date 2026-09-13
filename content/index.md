@@ -44,3 +44,4 @@ title: Compendium Index
 - **[[0 Story index|Anthology]]** - Chronological logs of adventures, heroes and epochal events.
 - **[[0 Rules index|Universal Constants]]** - Mechanics of the universe, it's rules, and conversion factors.
 - **[[0 One-Shot index|Multidimensional Occurrences]]** - A collection of history few and far between.
+- [[Person Wiki Page Template]]
