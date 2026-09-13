@@ -8,7 +8,7 @@ aliases:
 
 > [!info|right] **Noxervus**
 > ![[Default.jpg]]
-> | Campaign | Campaign 1 |
+> | Campaign | Shadows in White |
 > | :--- | :--- |
 > | **Species** | [[Harengon]] |
 > | **Background** | [[Feylost]] |
@@ -101,6 +101,7 @@ When undergoing this training, [[Noxervus]] was introduced to [[Aethelgard]], th
 filters:
   and:
     - file.hasLink("Noxervus")
+    - file.name != "Noxervus"
 views:
   - type: list
     name: References
