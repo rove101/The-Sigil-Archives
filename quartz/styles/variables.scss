@@ -20,7 +20,7 @@ $mobile: "(max-width: #{map.get($breakpoints, mobile)})";
 $tablet: "(min-width: #{map.get($breakpoints, mobile)}) and (max-width: #{map.get($breakpoints, desktop)})";
 $desktop: "(min-width: #{map.get($breakpoints, desktop)})";
 
-$pageWidth: 1000px;
+$pageWidth: 1200px;
 $sidePanelWidth: 320px; //380px;
 $topSpacing: 6rem;
 $boldWeight: 700;
