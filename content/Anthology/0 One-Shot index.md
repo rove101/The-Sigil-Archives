@@ -17,6 +17,6 @@ views:
         - file.hasTag("#Sig-MD")
     sort:
       - property: file.name
-        direction: DESC
+        direction: ASC
 
 ```

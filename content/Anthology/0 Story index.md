@@ -14,6 +14,7 @@ filters:
   and:
     - file.inFolder("Anthology/Campaigns")
     - file.ext == "md"
+    - '!file.hasTag("Sig-MD")'
 views:
   - type: table
     name: Campaign index
@@ -30,6 +31,7 @@ filters:
   and:
     - file.inFolder("Anthology/Session Recaps")
     - file.ext == "md"
+    - '!file.hasTag("Sig-MD")'
 views:
   - type: table
     name: Session index
