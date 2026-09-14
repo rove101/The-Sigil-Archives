@@ -3,7 +3,7 @@ publish: true
 title: Religions index
 ---
 
-# Religions index
+# Religions \[\[index
 
 ```base
 filters:
