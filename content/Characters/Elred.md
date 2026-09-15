@@ -20,9 +20,10 @@ aliases:
 >
 > **Archive ID:** #Sig-C/1789317946
 
-“You both have done much to help my Envoy, for that I am forever grateful. Consider a small favor yours, no strings attached”. “I fear you might have forgotten what having a favor owed is like. If you wish to learn more of your past, come find me out in the veil. There we may speak privately”. "Memories are powerful things, [[Elred Pergwyn|Elred]]. You may have forgotten your oath and your powers with it, but your body remembers. You have kept your word though you have long since heard the wind whisper it to you."
-
--[[Umbrax]] addressing [[Elred]] about his past life.
+> [!quote]
+> “You both have done much to help my Envoy, for that I am forever grateful. Consider a small favor yours, no strings attached”. “I fear you might have forgotten what having a favor owed is like. If you wish to learn more of your past, come find me out in the veil. There we may speak privately”. "Memories are powerful things, [[Elred Pergwyn|Elred]]. You may have forgotten your oath and your powers with it, but your body remembers. You have kept your word though you have long since heard the wind whisper it to you."
+>
+> \- [[Umbrax]] addressing [[Elred]] about his past life.
 
 <div style="clear: both;"></div>
 

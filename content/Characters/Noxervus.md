@@ -19,9 +19,10 @@ aliases:
 >
 > **Archive ID:** #Sig-C/1789268412
 
-“You look… whole again. [[Noxervus]]. Your soul is quiet now. That is good but in this realm, a favor of this magnitude creates heavy imbalances”. “I do not ask for your material goods, you know your mission. My payment is simple, continue your work. Return and bring those who are lost in the fog of your [[material world]] to ours. Do know that if you fail again, your vow will be broken and I won’t be able to help you again”.
-
--[[Umbrax]] to [[Noxervus]] after helping her pull her soul back from a necrotic curse.
+> [!quote]
+> “You look… whole again. [[Noxervus]]. Your soul is quiet now. That is good but in this realm, a favor of this magnitude creates heavy imbalances”. “I do not ask for your material goods, you know your mission. My payment is simple, continue your work. Return and bring those who are lost in the fog of your [[material world]] to ours. Do know that if you fail again, your vow will be broken and I won’t be able to help you again”.
+>
+> \- [[Umbrax]] to [[Noxervus]] after helping her pull her soul back from a necrotic curse.
 
 <div style="clear: both;"></div>
 
