@@ -16,12 +16,11 @@ filters:
     - file.ext == "md"
     - '!file.hasTag("Sig-MD")'
 views:
-  - type: table
+  - type: list
     name: Campaign index
     sort:
       - property: file.ctime
         direction: DESC
-
 ```
 
 ---
@@ -33,10 +32,9 @@ filters:
     - file.ext == "md"
     - '!file.hasTag("Sig-MD")'
 views:
-  - type: table
+  - type: list
     name: Session index
     sort:
       - property: file.ctime
         direction: DESC
-
 ```

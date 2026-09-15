@@ -13,8 +13,6 @@ filters:
   and:
     - file.hasTag("Sig-MD")
 views:
-  - type: table
+  - type: list
     name: One-Shot index
-    sort: []
-
 ```

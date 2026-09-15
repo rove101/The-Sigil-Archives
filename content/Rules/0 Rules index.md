@@ -12,9 +12,6 @@ filters:
     - file.path != this.file.path
     - file.ext == "md"
 views:
-  - type: table
+  - type: list
     name: Rules index
-    order:
-      - file.name
-
 ```

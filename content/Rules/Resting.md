@@ -1,5 +1,9 @@
 ---
 publish: true
+aliases:
+  - long rest
+  - short rest
+  - quick rest
 ---
 
 # Alternative Rest System

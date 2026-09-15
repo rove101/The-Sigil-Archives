@@ -3,7 +3,7 @@ publish: true
 title: Religions index
 ---
 
-# Religions \[\[index
+# Religions index
 
 ```base
 filters:
@@ -12,6 +12,6 @@ filters:
     - file.path != this.file.path
     - file.ext == "md"
 views:
-  - type: table
+  - type: list
     name: Religions index
 ```
