@@ -16,7 +16,7 @@ aliases:
 > | **Class** | [[Druid]] |
 > | Home | [[Veridian Hearth]] |
 > | Gender | Male |
-> | Affiliation | N/A |
+> | Affiliation |  |
 >
 > **Archive ID:** #Sig-C/1789317946
 

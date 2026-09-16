@@ -3,6 +3,7 @@ publish: true
 aliases:
   - The Cosmic Vale
   - Materias Planeteris
+  - The Vale
 title: Inner Planes index
 ---
 

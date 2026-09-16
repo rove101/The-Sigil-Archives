@@ -1,6 +1,7 @@
 ---
 publish: true
 aliases:
+  - Liora Imani
   - Liora
 ---
 
