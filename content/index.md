@@ -38,7 +38,7 @@ title: Compendium Index
 
 - **[[0 Inner Planes index|Materias Planeteris]]** - All things made physical and their interaction with the Cosmos
 - **[[0 Outer Planes index|Unendlichero]]** - Things outside the Crystal Sphere of [[0 Inner Planes index|The Cosmic Vale]]
-- **[[0 Travel index]]** -
+- **[[0 Travel index|Cosmic Excursions]]** - An all inclusive guide on what and where to travel.
 
 ### Campaign Codex
 
