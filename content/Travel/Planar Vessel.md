@@ -85,7 +85,7 @@ Capital vessels serve as the primary anchors for Kliean power, acting as mobile 
 
 ## Destroyer
 
-## Cruiser Class
+## Cruiser
 
 Very common fleet ship. Mostly seen performing long range transportation missions. Standard ship in the [[Alliance]] fleet, capable of holding it's own unless faced with overwhelming odds.
 
@@ -131,17 +131,21 @@ Single pilot skirmisher. Think X-Wing. While small, their light framework allows
 
 ## Warships & Interdictors
 
+Something should go here to keep the spacing better. Include 2 more (3 total warship/interdictor examples)
+
 ### Interdictor Class Vessels
 
 The Interdictor Class fulfills a critical area-denial role within the Fleets. These vessels utilize specialized containment field mechanics to generate gravity wells or energetic dampening fields. These fields prevent hostile vessels from escaping into Slip-Space, effectively trapping them for neutralization or boarding, and are essential for enforcing naval blockades.
 
 ## Interdenominational & Astral Transit Craft
 
+Talk about citizen style ships used for non military use.
+
 ### Solar Sail Vessels
 
 Drawing inspiration from ancient nautical aesthetics, these vessels harness "Ethereal winds" and magic particles to navigate the vacuum without conventional fuel. They are primarily utilized for exploration and civilian transit within the [[Ethereal Sea]] of [[0 Inner Planes index|The Vale]].
 
-### FTL Slip-Space Vessels
+### Slip-Space Vessels
 
 These craft are designed to navigate without the use of [[spatial rings]] to enter [[Slip-Space]] for rapid inter-system transit. However, [[Wayfarers]] are warned that [[Slip-Space]] travel is highly dangerous and often restricted. It borders the [[Far Realm]], exposing the crew to forces of chaos and corruption that can unravel the sanity of biological entities and the integrity of [[Technika systems]].
 
@@ -164,11 +168,11 @@ Navigation through [[Slip-Space]] involves severe time-dilation. Due to the warp
 
 [[Waystone Keys]] deciphered by the [[Silverfronds Society]], [[Waystone Keys]] are volatile metaphysical anchors used for planar travel. They are extremely dangerous, often triggering a vortex that can tear the fabric of the [[Weave]]. Use of these keys near a [[Chronal-Vortex]] requires a power anchor to prevent the ship and crew from being lost to permanent planar drift.
 
-# ~~Appendix: Notable Superstructures & Wrecks
+# ~~Appendix: Notable Superstructures & Wrecks~~
 
-- **Hyperion Crash Site:** Located on the planet Oisia, this wreckage serves as the primary source of technology for the modern Technocracy and the "Kingdom of Scrap." It is the foundation of all modern understanding of high-level Technika.
-- **Dyson Sphere:** A solar-punk superstructure utilized by advanced factions to "enslave" stars for total power capture. While providing near-infinite energy, these structures are viewed with moral complexity by the Order due to the suppression of the star's natural lifecycle.
-- **Temporal Scribes & The Chronal-Vortex:** The **Temporal Scribes** maintain constant surveillance near massive superstructures, monitoring the Chronal-Vortex for distortions. Their role is to ensure that the reckless use of advanced propulsion does not result in the total collapse of time-space within the Vale.
+- \~~**Hyperion Crash Site:** Located on the planet Oisia, this wreckage serves as the primary source of technology for the modern Technocracy and the "Kingdom of Scrap." It is the foundation of all modern understanding of high-level Technika.~~
+- \~~**Dyson Sphere:** A solar-punk superstructure utilized by advanced factions to "enslave" stars for total power capture. While providing near-infinite energy, these structures are viewed with moral complexity by the Order due to the suppression of the star's natural lifecycle.~~
+- \~~**Temporal Scribes & The Chronal-Vortex:** The **Temporal Scribes** maintain constant surveillance near massive superstructures, monitoring the Chronal-Vortex for distortions. Their role is to ensure that the reckless use of advanced propulsion does not result in the total collapse of time-space within the Vale.~~
 
 # History
 
