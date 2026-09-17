@@ -27,17 +27,17 @@ title: Compendium Index
 
 ### Societies & Institutions
 
-- **[[0 Kingdom index]]** -
-- **[[0 Cities index]]** -
+- **[[0 Kingdom index|Gazetteer]]** - Compiled index of Topographical and Economic output pertaining to a collectivized peoples.
+- **[[0 Cities index|Cities]]** - Popular towns and cities.
 
 * **[[0 Faction index|Factions & Guilds]]** - Active political powers and clandestine groups.
 
-- **[[0 Politics index]]** -
+- **[[0 Politics index|Politics]]** - Political congregations and nuanced definitions.
 
 ### Cosmology
 
 - **[[0 Inner Planes index|Materias Planeteris]]** - All things made physical and their interaction with the Cosmos
-- **[[0 Outer Planes index|Unendlichero]]** - Things outside the Crystal Sphere of [[0 Inner Planes index|The Cosmic Vale]]
+- **[[0 Outer Planes index|Fernterland]]** - Things outside the Crystal Sphere of [[0 Inner Planes index|The Cosmic Vale]]
 - **[[0 Travel index|Cosmic Excursions]]** - An all inclusive guide on what and where to travel.
 
 ### Campaign Codex
