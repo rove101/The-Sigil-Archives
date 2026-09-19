@@ -16,3 +16,39 @@ max-width: 100vw;
 :root[saved-theme="dark"] {
   --lightgray: #5c5a60; /* Visible line color on #161618 dark mode */
 }
+
+// 1. Structure the footer as a 2-row layout
+footer {
+  display: flex !important;
+  flex-direction: row !important;
+  flex-wrap: wrap !important; // Allows elements to wrap onto a second line
+  justify-content: space-between !important;
+  align-items: center !important;
+  width: 100% !important;
+  row-gap: 1rem !important; // Adds a clean gap between the top text line and the links line
+
+  // Force the default Quartz text to stay on the left edge of the top row
+  > p:first-of-type,
+  > div:first-of-type {
+    margin: 0 !important;
+  }
+
+  // 2. Force the plugin hyperlinks container to take up its own full line right underneath
+  .footer-links, ul {
+    flex-basis: 100% !important; // Forces the links onto their own dedicated line below
+    display: flex !important;
+    justify-content: center !important; // Centers your links nicely on that second line
+    gap: 1.5rem !important; // Gives GitHub, Discord, etc. clean spacing from each other
+    order: 3 !important; // Guarantees links are placed below both text pieces
+  }
+}
+
+// 3. Inject your plain text, right-aligning it on the top row
+footer::after {
+  content: "This work is licensed under CC BY-NC 4.0";
+  color: var(--gray);
+  font-size: 0.85rem;
+  white-space: nowrap;
+  order: 2; // Forces it to the right side of the first row
+}
+
