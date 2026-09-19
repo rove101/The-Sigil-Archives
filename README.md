@@ -1,5 +1,7 @@
 Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
+
 With the exception of [Quartz](https://quartz.jzhao.xyz/) (Static site Generator)
+
 The work (all files and text within the [content](content) folder) is licensed under a
 [Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
 
