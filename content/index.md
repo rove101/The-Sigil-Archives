@@ -14,7 +14,7 @@ title: Compendium Index
 ### World & Lore
 
 - **[[0 Religions index|Pantheons and Religions]]** - Higher powers, domains, and holy orders.
-- **[[0 kingdom Index|Geography & Regions]]** - Maps, settlements, and territorial borders.
+- **[[0 Territories index|Sectors & Provinces]]** - Maps, settlements, and territorial borders.
 
 * **[[0 History index|Historaculum]]** - A collection of events ordered chronologically
 
@@ -22,7 +22,7 @@ title: Compendium Index
 
 - **[[0 Character index|Dramatis Personae]]** - Notable characters and historical figures.
 - **[[0 Species index|Genosung]]** - Close study of many creatures found across the cosmos.
-- **[[0 Technology index|Technika]]** - Advancements in the field of applied methodology.
+- **[[0 Technika index|Technika]]** - Advancements in the field of applied methodology.
 - **[[0 Magika index|Magika]]** - The different forms of supernatural, occult, or otherwise unseen forces.
 
 ### Societies & Institutions
