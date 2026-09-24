@@ -55,6 +55,8 @@ Short description of what they might look to a passing by figure.
 
 A mechanical prosthesis replaces his right arm up to his shoulder. Getting a closer look reveals a strange purple glow between the plates and joints. Anytime [[Verso Calvain|Verso]] casts magic from it, the purple energy swells and faint runic lettering glows brighter. [[Verso Calvain|Verso]], looking for answers, eventually let [[Noxervus]] read the full poem.
 
+<div style="clear: both;"></div>
+
 ## Equipment
 
 Thorn of the Pale Court (Pact Sword)
