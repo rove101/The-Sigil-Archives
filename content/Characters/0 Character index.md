@@ -14,4 +14,11 @@ filters:
 views:
   - type: list
     name: 0 Character index
+    groupBy:
+      property: tags
+      direction: DESC
+    sort:
+      - property: file.name
+        direction: ASC
+
 ```

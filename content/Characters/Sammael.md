@@ -2,6 +2,8 @@
 publish: true
 aliases:
   - Sam
+tags:
+  - PC
 ---
 
 # Sammael

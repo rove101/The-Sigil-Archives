@@ -15,4 +15,8 @@ filters:
 views:
   - type: list
     name: One-Shot index
+    sort:
+      - property: file.name
+        direction: ASC
+
 ```

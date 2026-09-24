@@ -14,4 +14,6 @@ filters:
 views:
   - type: list
     name: Religions index
+    limit: 5
+
 ```
