@@ -21,24 +21,24 @@ configuration:
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
+        light: "#f4eedb"       # Atlas Parchment Background
+        lightgray: "#e6dcbe"   # Secondary background elements
+        gray: "#bfa37a"        # Borders & graph links
+        darkgray: "#2e2b24"    # Primary body text
+        dark: "#8c1d1d"        # Red headers and titles
+        secondary: "#8c1d1d"   # Red interactive links
+        tertiary: "#bd3a3a"    # Hover states
+        highlight: "rgba(140, 29, 29, 0.08)" # Internal link background highlights
         textHighlight: "#fff23688"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
+        light: "#1c1914"       # Candle-lit Dark Background
+        lightgray: "#2e2920"   # Secondary dark elements
+        gray: "#544939"        # Dark mode borders
+        darkgray: "#d9ceb6"    # Main reading text
+        dark: "#da4141"        # Candle-lit red headers
+        secondary: "#da4141"   # Accent links
+        tertiary: "#ff5e5e"    # Active hovers
+        highlight: "rgba(218, 65, 65, 0.15)"
         textHighlight: "#b3aa0288"
 plugins:
   - source: "@quartz-community/created-modified-date"
