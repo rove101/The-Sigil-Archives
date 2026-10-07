@@ -2,10 +2,8 @@
 publish: true
 ---
 
-> [!quote]
+> [!quote] Villager from Unterland
 > “_I ain't never seen it, but I know it's real. There were rumors the Great Beast was sighted near Niederhalde. Now the village is abandoned and overrun by monsters._”
-
-— Villager from Unterland
 
 # Mutation Checks
 
@@ -15,7 +13,7 @@ On a failed save, the character gains 1 [Corruption](https://5e.tools/condition
 
 A Mutation lasts until the character has no [Corruption](https://5e.tools/conditionsdiseases.html#corruption_grimhollowcg24) levels, or until they finish a [Long Rest](https://5e.tools/variantrules.html#long%20rest_xphb).
 
-## Curses' effect on Bodily Autonomy
+## Curses' Effect on Bodily Autonomy
 
 Some rules and effects specifically call for a Mutation check. In addition, the GM can require a Mutation check whenever a character is exposed to powerful magic, curses, creatures, or other effects that put them in contact with eldritch horrors or unknowable forces.
 
@@ -28,3 +26,4 @@ Here are some examples of when a Mutation check could be relevant and evocative:
 - When a creature from the Material Plane travels travels to another plane of existence.
 - When a shocking or devastating event occurs outside of combat.
 - When a character with two failed Death Saving Throws succeeds on a Death Saving Throw.
+- When a creature is targeted by a harmful spell such as Curse.

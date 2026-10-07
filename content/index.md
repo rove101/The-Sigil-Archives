@@ -17,6 +17,7 @@ title: Compendium Index
 - **[[0 Territories index|Sectors & Provinces]]** - Maps, settlements, and territorial borders.
 
 * **[[0 History index|Historaculum]]** - A collection of events ordered chronologically
+* **[[0 Culture Index|Cultura]]** - Comprehensive list of holidays, cuisine, and other culture based oddities.
 
 ### Inhabitants & Assets
 
@@ -27,10 +28,10 @@ title: Compendium Index
 
 ### Societies & Institutions
 
-- **[[0 Kingdom index|Gazetteer]]** - Compiled index of Topographical and Economic output pertaining to a collectivized peoples.
+- **[[0 Empire index|Gazetteer]]** - Compiled index of Topographical and Economic output pertaining to a collectivized peoples.
 - **[[0 Cities index|Cities]]** - Popular towns and cities.
 
-* **[[0 Faction index|Factions & Guilds]]** - Active political powers and clandestine groups.
+* **[[0 Faction Index|Factions & Guilds]]** - Active political powers and clandestine groups.
 
 - **[[0 Politics index|Politics]]** - Political congregations and nuanced definitions.
 
@@ -43,5 +44,5 @@ title: Compendium Index
 ### Campaign Codex
 
 - **[[0 Story index|Anthology]]** - Chronological logs of adventures, heroes and epochal events.
-- **[[0 Rules index|Universal Constants]]** - Mechanics of the universe, it's rules, and conversion factors.
+- **[[0 Rules index|Universal Constants]]** - Mechanics of the universe, its rules, and conversion factors.
 - **[[0 One-Shot index|Multidimensional Occurrences]]** - A collection of history few and far between.

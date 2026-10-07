@@ -33,7 +33,7 @@ tags:
 
 2-5 paragraphs about them. Touch the main detail of why this person is important.
 
-A holy golden [[knight lancer]] bound by honor to the kingdom of [[Quelta]], [[John Rogers]] stands above his brothers of the [[holy order]]. He was found by the [[holy order]] at a young age after the  destruction of his village. The knight who found him became his mentor after seeing the flames of justice in his eyes.
+A holy golden knight lancer bound by honor to the kingdom of Quelta, John Rogers stands above his brothers of the holy order. He was found by the holy order at a young age after the  destruction of his village. The knight who found him became his mentor after seeing the flames of justice in his eyes.
 
 # Description
 

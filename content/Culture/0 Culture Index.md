@@ -1,16 +1,9 @@
 ---
 publish: true
-aliases:
-  - Tech
-  - tech
-  - Technology
-  - technology
-  - Technika
-  - technika
-title: Technika index
+title: Culture Index
 ---
 
-# Technika index
+# Culture Index
 
 ```base
 filters:
@@ -20,5 +13,5 @@ filters:
     - file.ext == "md"
 views:
   - type: list
-    name: Technika index
+    name: Culture Index
 ```

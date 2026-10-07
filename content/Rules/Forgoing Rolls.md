@@ -20,7 +20,7 @@ This optional rule allows any player to forgo rolling at take a flat 10 in its p
 
 # Take 20
 
-This optional rule allows any player to forgo rolling to take a flat 20 with an appropriately long time penalty. Modifiers are then add to the 20 and the result is used for the skill check. This is to allow a higher chance at success at the expense of time passing.
+This optional rule allows any player to forgo rolling to take a flat 20 with an appropriately long time penalty. Modifiers are then added to the 20 and the result is used for the skill check. This is to allow a higher chance at success at the expense of time passing.
 
 ### Example
 

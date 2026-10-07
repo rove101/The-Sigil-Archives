@@ -9,13 +9,13 @@ aliases:
 
 # Melee
 
-When you would reduce a creature to 0 [Hit Points](https://5e.tools/variantrules.html#hit%20points_xphb) with a melee attack, you can instead reduce the creature to 1 Hit Point. The creature then has the [Unconscious](https://5e.tools/conditionsdiseases.html#unconscious_xphb) condition and starts a [Short Rest](https://5e.tools/variantrules.html#short%20rest_xphb).
+When you would reduce a creature to 0 [Hit Points](https://5e.tools/variantrules.html#hit%20points_xphb) with a melee attack, you can instead reduce the creature to 1 Hit Point. The creature then has the [Unconscious](https://5e.tools/conditionsdiseases.html#unconscious_xphb) condition.
 
-The creature remains Unconscious until it regains any [Hit Points](https://5e.tools/variantrules.html#hit%20points_xphb) or until someone uses an action to administer first aid to it, which requires a successful DC 10 Wisdom (Medicine) check.
+The creature remains [[Unconscious]] for 1d4 hours or if someone uses an action to wake the creature.
 
-# Magika
+# [[0 Magika index|Magika]]
 
-If a spell was used to reduce a creature to 0 [Hit Points](https://5e.tools/variantrules.html#hit%20points_xphb), that creature can be reduced to 1 HIt Point if the damage type is listed below. All above mentioned rules still apply.
+If a spell was used to reduce a creature to 0 [Hit Points](https://5e.tools/variantrules.html#hit%20points_xphb), that creature can be reduced to 1 HIt Point if the damage type is listed below.
 
 - Cold
 - Force

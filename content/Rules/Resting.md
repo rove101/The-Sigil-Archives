@@ -68,9 +68,9 @@ During sleep, you have the [[Unconscious]] condition. After you finish a [[Resti
 
 To start a [[Resting#Long Rest|Long Rest]], you must have at least 1 Hit Point. When you finish the rest, you gain the following benefits:
 
-**Regain All HP.** You regain all lost Hit Points and all spent Hit Point Dice. If your Hit Point maximum was reduced, it returns to normal.
+**Regain All HP.** You regain all lost Hit Points and all spent Hit Point Dice. If your Hit Point maximum was reduced, it returns too normal.
 
-**Ability Scores Restored.** If any of your ability scores were reduced, they return to normal.
+**Ability Scores Restored.** If any of your ability scores were reduced, they return too normal.
 
 **Exhaustion Recovered.** If you have the Exhaustion condition, its level decreases to 0.
 

@@ -1,9 +1,9 @@
 ---
 publish: true
-title: Character index
+title: Empire index
 ---
 
-# Character index
+# Empire Index
 
 ```base
 filters:
@@ -13,9 +13,13 @@ filters:
     - file.ext == "md"
 views:
   - type: list
-    name: 0 Character index
+    name: Kingdom index
+    groupBy:
+      property: tags
+      direction: ASC
     sort:
-      - property: file.mtime
+      - property: file.name
         direction: ASC
+    markers: bullet
 
 ```
