@@ -1,0 +1,17 @@
+---
+publish: true
+title: Travel Index
+---
+
+# Travel Index
+
+```base
+filters:
+  and:
+    - file.folder == this.file.folder
+    - file.path != this.file.path
+    - file.ext == "md"
+views:
+  - type: list
+    name: Travel index
+```

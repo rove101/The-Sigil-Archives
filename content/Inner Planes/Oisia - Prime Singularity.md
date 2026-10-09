@@ -10,7 +10,7 @@ aliases:
 > ![[Inner Planes/Oisia.webp|250]]
 > | Founding | 2026-09-15 |
 > | :--- | :--- |
-> | **Plane** | [[0 Inner Planes index|The Cosmic Vale]] |
+> | **Plane** | [[0 Inner Planes Index|The Cosmic Vale]] |
 > | **Province** | [[Province Name]] |
 > | **Type** | Mining Town |
 > | Climate | Warm |

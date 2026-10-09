@@ -17,13 +17,10 @@ aliases:
 > | Gender | Fe(Male) |
 > | Affiliation | [[Guards]] |
 >
-> **Archive ID:** #Sig-IS/1789422482
+> **Archive ID:** #Sig-T/1789422482
 
-> [!quote]
+> [!quote] Classifications and repair; Fix this not that. by [[Tessira Voxis]], Chief Maintenance Engineer for [[Moroshy Shipyard]].
 > Ships that pass through our shipyard are of the highest quality. It is your job to classify, identify, and perform necessary repairs to all Class-3 and up [[Alliance]] Rift-Runners. Strike Craft are your smallest single pilot vessels, very maneuverable but can't easily fit a [[Repulsion Generator]], lots of hull damage is typical. Next is your Escort or Frigate class, these are the extra luggage for the fleets. Medium weapons but can take a punch. We mostly get ones fit for fuel transport so watch where you weld. Battle Cruisers are exactly what you think. They are big, very durable, and slow which makes them perfect targets in battle for the smaller skirmishers but usually pack Medium and Large [[Hardpoint]] weapon systems. Lastly we have Capital Ships and bigger, we don't have the capacity to work on those so [[Central Command]] doesn't route them to our station but they are the ones with the funny looking super structures sticking out of the top or out front. They need a minimal number of crew to pilot in the double digits, and that's just to steer the damn things.
->
-> \- Classifications and repair; Fix this not that.
-> by [[Tessira Voxis]], Chief Maintenance Engineer for [[Moroshy Shipyard]].
 
 <div style="clear: both;"></div>
 
@@ -143,7 +140,7 @@ Talk about citizen style ships used for non military use.
 
 ### Solar Sail Vessels
 
-Drawing inspiration from ancient nautical aesthetics, these vessels harness "Ethereal winds" and magic particles to navigate the vacuum without conventional fuel. They are primarily utilized for exploration and civilian transit within the [[Ethereal Sea]] of [[0 Inner Planes index|The Vale]].
+Drawing inspiration from ancient nautical aesthetics, these vessels harness "Ethereal winds" and magic particles to navigate the vacuum without conventional fuel. They are primarily utilized for exploration and civilian transit within the [[Ethereal Sea]] of [[0 Inner Planes Index|The Vale]].
 
 ### Slip-Space Vessels
 
