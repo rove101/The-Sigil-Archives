@@ -1,6 +1,8 @@
 ---
 publish: true
 title: Character Index
+tags:
+  - Character
 ---
 
 # Character Index
