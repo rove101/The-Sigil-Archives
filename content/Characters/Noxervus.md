@@ -5,6 +5,7 @@ aliases:
   - Liora
 tags:
   - PC
+  - Shadows_In_White
 ---
 
 # Noxervus

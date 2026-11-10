@@ -14,10 +14,11 @@ filters:
     - file.path != this.file.path
     - file.ext == "md"
 views:
-  - type: list
+  - type: cards
     name: 0 Character index
     sort:
-      - property: file.mtime
+      - property: file.name
         direction: ASC
+    image: note.image
 
 ```

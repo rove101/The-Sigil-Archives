@@ -32,7 +32,7 @@ A holy golden knight lancer bound by honor to the kingdom of Quelta, John Rogers
 
 # Types
 
-Per Directive Alpha-9 of the [[Sigil Order]], all [[Wayfarers]] and Technika initiates shall categorize astral sightings according to the established Tonnage Hierarchy. The [[Kliean Technocracy]] maintains this taxonomy to ensure logistical precision across the [[Slip-Space]]. These classifications are defined by their displacement, tactical utility, and the complexity of their integrated Technika. The following dossier serves as the definitive record for vessel identification.
+Per Directive Alpha-9 of the [[Sigil Order]], all [[Wayfarers]] and Technika initiates shall categorize astral sightings according to the established Tonnage Hierarchy. The [[Kliean Technocracy]] maintains this taxonomy to ensure logistical precision across [[Slip-Space]]. These classifications are defined by their displacement, tactical utility, and the complexity of their integrated Technika. The following dossier serves as the definitive record for vessel identification.
 
 | Ship Class            | Primary Role                                                                                                                                                                                              | General Scale                                                           |
 | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |

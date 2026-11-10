@@ -11,12 +11,37 @@ title: Multidimensional Index
 ```base
 filters:
   and:
+    - file.inFolder("atlas-vtt/campaigns")
+    - file.ext == "md"
     - file.hasTag("Sig-MD")
 views:
-  - type: list
-    name: One-Shot index
+  - type: cards
+    name: Campaign index
+    groupBy:
+      property: tags
+      direction: ASC
     sort:
       - property: file.name
         direction: ASC
+    markers: bullet
+
+```
+
+---
+
+```base
+filters:
+  and:
+    - file.inFolder("Anthology/Session Notes/One-Shots")
+    - file.ext == "md"
+views:
+  - type: list
+    name: Session index
+    groupBy:
+      property: tags
+      direction: ASC
+    sort:
+      - property: file.ctime
+        direction: DESC
 
 ```

@@ -5,6 +5,7 @@ aliases:
   - Lord Verso
 tags:
   - PC
+  - Shadows_In_White
 ---
 
 # Verso Calvain

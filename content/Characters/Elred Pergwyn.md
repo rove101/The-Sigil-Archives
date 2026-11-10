@@ -5,13 +5,14 @@ aliases:
   - Elred
 tags:
   - PC
+  - Shadows_In_White
 ---
 
 # Elred Pergwyn
 
 > [!info|right] **Elred Pergwyn**
 > ![[Default.jpg]]
-> | Campaign | Campaign 1 |
+> | Campaign | Shadows in White |
 > | :--- | :--- |
 > | **Species** | [[Elf]] |
 > | **Background** | [[Farmer]] |
